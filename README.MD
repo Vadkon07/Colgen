@@ -36,14 +36,10 @@ Once compiled, run the application with:
 ## Features
 - **Offline:** This app is fully offline, so you can use her even when you're not connected to internet.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LICENSE-MIT-green"/>
-</p>
-
 ## To-Do
 Below is a list of potential features that can be added in future versions of the app:
 
-- [ ] **More Formats:** Add formats as RGB and RGBA.
+- [X] **More Formats:** Add formats as RGB and RGBA.
 - [ ] **Show Color's Value in GUI of app.**
 
 ## License
