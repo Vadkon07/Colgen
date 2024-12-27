@@ -40,7 +40,8 @@ Once compiled, run the application with:
 Below is a list of potential features that can be added in future versions of the app:
 
 - [X] **More Formats:** Add formats as RGB and RGBA.
-- [ ] **Show Color's Value in GUI of app.**
+- [X] **Show Color's Value in GUI of app.**
+- [ ] **Add copy button.**
 
 ## License
 
